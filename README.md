@@ -4,6 +4,10 @@
 
 ---
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/4af46f19-503b-43f7-ade7-804d87cf6fde" alt="Asistente Consular Argentina - España" style="width: 100%; max-width: 180px; height: auto; aspect-ratio: 9 / 16; object-fit: cover; border-radius: 8px;">
+</div>
+
 ## 💡 El Problema y la Solución
 
 Cualquiera que haya emigrado sabe el dolor de cabeza que representa entender la burocracia consular y de extranjería: requisitos cambiantes, información dispersa y procesos eternos. Este proyecto nace para resolver esa barrera: un asistente virtual disponible 24/7 que responde consultas frecuentes sobre pasaportes, visados, homologaciones y trámites en España de manera clara y rápida.
@@ -18,3 +22,6 @@ La web combina una interfaz minimalista y responsive . Esta Construido con **HTM
 * ## 🚀 Probar el Proyecto
 
 💻 **[👉 Haz clic aquí para consultar al Asistente Consular](https://navajowhite-cat-693249.hostingersite.com/)** 
+
+
+<img width="1080" height="1920" alt="Facundo Aguilar (2)" src="https://github.com/user-attachments/assets/4af46f19-503b-43f7-ade7-804d87cf6fde" />
