@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/4af46f19-503b-43f7-ade7-804d87cf6fde" alt="Asistente Consular Argentina - España" width="220">
+  <img src="https://github.com/user-attachments/assets/53afe545-6704-45c1-b03a-4fb0978f00fa" alt="Asistente Consular Argentina - España" width="220">
 </p>
 
 ## 💡 El Problema y la Solución
@@ -22,5 +22,9 @@ Cualquiera que haya emigrado sabe el dolor de cabeza que representa entender la 
 
 La web combina una interfaz minimalista y responsive . Esta Construido con **HTML5**, **Tailwind CSS** y **JavaScript (ES6+)** .
 * **Integración de IA (Chatbase):** Configuración, entrenamiento de base de conocimiento y consumo del agente virtual alimentado por el motor de **Chatbase**, integrado en la interfaz web.
+
+
+
+
 
 
